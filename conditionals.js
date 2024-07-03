@@ -97,3 +97,4 @@ scienceButton.addEventListener("click", function() {
 //  - If they get it wrong, make their answer turn red.
 //  - Write a conditional statement so the English answer is correct for both the user inputs Mon and mon. 
 //  - Google compound conditionals to help you figure out how to do this!
+<style></style>
